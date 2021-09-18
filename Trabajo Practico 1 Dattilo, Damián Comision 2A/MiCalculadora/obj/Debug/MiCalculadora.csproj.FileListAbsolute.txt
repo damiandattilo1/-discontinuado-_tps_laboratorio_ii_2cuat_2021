@@ -1,0 +1,13 @@
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\bin\Debug\Entidades.dll
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\bin\Debug\Entidades.pdb
+C:\Users\usu\Documents\Damian Programacion\2 cuatrimestre 2021\TP1 2cuat2021\Trabajo Practico 1 Dattilo, Damián Comision 2A\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete
