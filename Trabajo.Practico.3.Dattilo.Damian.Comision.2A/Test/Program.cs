@@ -59,8 +59,6 @@ namespace Test
                 cm.Remover(m2);
                 cm.Agregar(m5);
                 cm.Agregar(m7); // No entra
-
-                Console.WriteLine(cm);
             }
             catch (Exception e)
             {

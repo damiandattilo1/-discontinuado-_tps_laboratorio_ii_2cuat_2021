@@ -80,7 +80,7 @@ namespace Entidades
         /// <returns></returns>  True si los Id son iguales, de lo contrario False
         public static bool operator ==(Producto p1, Producto p2)
         {
-            return ((p1.Id == p2.Id) && (p1.marca == p2.marca));
+            return ((p1.Id == p2.Id) && (p1.marca == p2.marca) && (p1.Eficiencia == p2.Eficiencia) && (p1.PorcentajeDeFallas == p2.PorcentajeDeFallas) && (p1.Precio == p2.Precio));
         }
         public static bool operator !=(Producto p1, Producto p2)
         {
