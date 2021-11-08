@@ -129,7 +129,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine($"Capacidad Maxima = {this.capacidadMaxima}\n\nListado de productos aprobados:\n");
+            sb.AppendLine($"Capacidad Maxima = {this.capacidadMaxima}\n\nListado de {typeof(T).Name}:\n");
 
             foreach (T item in lista)
             {

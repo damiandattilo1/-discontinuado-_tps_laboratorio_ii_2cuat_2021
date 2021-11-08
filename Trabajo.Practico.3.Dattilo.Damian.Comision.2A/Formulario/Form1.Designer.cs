@@ -172,9 +172,9 @@ namespace Formulario
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(895, 137);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(167, 17);
+            this.label3.Size = new System.Drawing.Size(109, 17);
             this.label3.TabIndex = 21;
-            this.label3.Text = "Seleccione Caracteristica";
+            this.label3.Text = "Seleccione Tipo";
             // 
             // label5
             // 
@@ -267,9 +267,9 @@ namespace Formulario
             this.label13.AutoSize = true;
             this.label13.Location = new System.Drawing.Point(877, 235);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(167, 17);
+            this.label13.Size = new System.Drawing.Size(109, 17);
             this.label13.TabIndex = 33;
-            this.label13.Text = "Seleccione Caracteristica";
+            this.label13.Text = "Seleccione Tipo";
             // 
             // tipo2
             // 
@@ -287,9 +287,9 @@ namespace Formulario
             this.label1.AutoSize = true;
             this.label1.Location = new System.Drawing.Point(469, 51);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(198, 17);
+            this.label1.Size = new System.Drawing.Size(273, 17);
             this.label1.TabIndex = 34;
-            this.label1.Text = "IGUALDAD DE MICROONDAS";
+            this.label1.Text = "IGUALDAD DE AIRES ACONDICIONADOS";
             // 
             // Form1
             // 

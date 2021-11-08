@@ -51,31 +51,13 @@ namespace Formulario
         private void button1_Click(object sender, EventArgs e)
         {
 
-            if (String.IsNullOrWhiteSpace(id1.Text) || string.IsNullOrWhiteSpace(precio1.Text) || string.IsNullOrWhiteSpace(porcentaje1.Text) || String.IsNullOrWhiteSpace(eficiencia1.Text) || String.IsNullOrWhiteSpace(marca1.Text) || String.IsNullOrWhiteSpace(tipo1.Text))
+            if (String.IsNullOrWhiteSpace(id1.Text) || string.IsNullOrWhiteSpace(id2.Text) || string.IsNullOrWhiteSpace(marca1.Text) || String.IsNullOrWhiteSpace(marca2.Text) || String.IsNullOrWhiteSpace(eficiencia1.Text) || String.IsNullOrWhiteSpace(eficiencia2.Text) || string.IsNullOrWhiteSpace(porcentaje1.Text) || string.IsNullOrWhiteSpace(porcentaje2.Text) || String.IsNullOrWhiteSpace(precio1.Text) || String.IsNullOrWhiteSpace(precio2.Text) || String.IsNullOrWhiteSpace(tipo1.Text) || String.IsNullOrWhiteSpace(tipo2.Text))
             {
                 MessageBox.Show("ERROR: Ingrese valores");
             }
             else
             {
-                EMarca m1 = (EMarca)Enum.Parse(typeof(EMarca), marca1.Text);
-                EficienciaEnergetica e1 = (EficienciaEnergetica)Enum.Parse(typeof(EficienciaEnergetica), eficiencia1.Text);
-                ETipo t1 = (ETipo)Enum.Parse(typeof(ETipo), tipo1.Text);
-
-                EMarca m2 = (EMarca)Enum.Parse(typeof(EMarca), marca2.Text);
-                EficienciaEnergetica e2 = (EficienciaEnergetica)Enum.Parse(typeof(EficienciaEnergetica), eficiencia2.Text);
-                ETipo t2 = (ETipo)Enum.Parse(typeof(ETipo), tipo2.Text);
-
-                AireAcondicionado aire1 = new AireAcondicionado(int.Parse(id1.Text), m1, e1, int.Parse(porcentaje1.Text), t1 , int.Parse(precio1.Text));
-                AireAcondicionado aire2 = new AireAcondicionado(int.Parse(id2.Text), m2, e2, int.Parse(porcentaje2.Text), t2, int.Parse(precio2.Text));
-
-                if(aire1 == aire2)
-                {
-                    MessageBox.Show("Los aires acondicionados son IGUALES");
-                }
-                else
-                {
-                    MessageBox.Show("Los aires acondicionados son DISTINTOS");
-                }
+                Igualdad();
             }
         }
 
@@ -92,6 +74,29 @@ namespace Formulario
         private void caracteristica_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void Igualdad()
+        {
+            EMarca m1 = (EMarca)Enum.Parse(typeof(EMarca), marca1.Text);
+            EficienciaEnergetica e1 = (EficienciaEnergetica)Enum.Parse(typeof(EficienciaEnergetica), eficiencia1.Text);
+            ETipo t1 = (ETipo)Enum.Parse(typeof(ETipo), tipo1.Text);
+
+            EMarca m2 = (EMarca)Enum.Parse(typeof(EMarca), marca2.Text);
+            EficienciaEnergetica e2 = (EficienciaEnergetica)Enum.Parse(typeof(EficienciaEnergetica), eficiencia2.Text);
+            ETipo t2 = (ETipo)Enum.Parse(typeof(ETipo), tipo2.Text);
+
+            AireAcondicionado aire1 = new AireAcondicionado(int.Parse(id1.Text), m1, e1, int.Parse(porcentaje1.Text), t1, int.Parse(precio1.Text));
+            AireAcondicionado aire2 = new AireAcondicionado(int.Parse(id2.Text), m2, e2, int.Parse(porcentaje2.Text), t2, int.Parse(precio2.Text));
+
+            if (aire1 == aire2)
+            {
+                MessageBox.Show("Los aires acondicionados son IGUALES");
+            }
+            else
+            {
+                MessageBox.Show("Los aires acondicionados son DISTINTOS");
+            }
         }
     }
 }

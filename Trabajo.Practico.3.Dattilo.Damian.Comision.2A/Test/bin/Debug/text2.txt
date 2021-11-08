@@ -2,7 +2,7 @@ Archivo de texto
 
 Capacidad Maxima = 4
 
-Listado de productos aprobados:
+Listado de AireAcondicionado:
 
 ID: 1234
 Marca: Philco
@@ -39,7 +39,7 @@ El producto necesita ser revisado
 
 Capacidad Maxima = 4
 
-Listado de productos aprobados:
+Listado de Microondas:
 
 ID: 1234
 Marca: Philco
