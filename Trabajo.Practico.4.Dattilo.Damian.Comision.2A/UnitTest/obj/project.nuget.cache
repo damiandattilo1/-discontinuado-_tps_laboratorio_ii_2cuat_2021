@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v5PFHoqVtI2EGbmY3FSOio9DWLBD1m5FO24rC78TiRDad18akyXTND4b6vpXkODNQPoE8MSRZBx4sXExW+4kGA==",
+  "dgSpecHash": "UoNw27W5tM8zF+THikNXPofSeGFh8HWhxNvd243TnA+wLxgx0PgOPgGngGQ+wBaBkgF+eJcJxRZKn3tAnCOVJQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
+  "projectFilePath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usu\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
     "C:\\Users\\usu\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",

@@ -6461,11 +6461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
+      "projectUniqueName": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
       "projectName": "UnitTest",
-      "projectPath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
+      "projectPath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\UnitTest.csproj",
       "packagesPath": "C:\\Users\\usu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\obj\\",
+      "outputPath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\UnitTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6482,8 +6482,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj"
+            "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj"
             }
           }
         }

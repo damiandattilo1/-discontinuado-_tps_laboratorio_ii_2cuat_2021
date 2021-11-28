@@ -1,7 +1,7 @@
 ﻿
 namespace IngresoProductos
 {
-    partial class Datos
+    partial class FrmMostrarDatos
     {
         /// <summary>
         /// Required designer variable.

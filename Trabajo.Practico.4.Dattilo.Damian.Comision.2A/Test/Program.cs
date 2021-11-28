@@ -68,9 +68,7 @@ namespace Test
             Console.WriteLine(ca);
             Console.WriteLine(cm);
 
-            Console.WriteLine(ca.AnalisisDeDatos(EMarca.Philco));
-
-            //Console.WriteLine(ProductoAccesoDatos.Leer());
+            Console.WriteLine("------------------------------------------------------------");
 
 
             try
@@ -106,7 +104,7 @@ namespace Test
             }
 
 
-            
+            Console.WriteLine(ca.AnalisisDeDatos(EMarca.Philco));
         }
     }
 }

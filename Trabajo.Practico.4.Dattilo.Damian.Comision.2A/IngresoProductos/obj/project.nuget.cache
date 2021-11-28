@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FfLIKccqhtIQI9CVZo77+jbWunLsty4WrN+CUItN10KEkzLd2k5wW+QtSW02XRD40+UowV2dWrIb+zBST4NV+g==",
+  "dgSpecHash": "eu3i9jpgQtor9SdFScm5R18yejxPwCzMa5f64PLmfNylHLXv/zhgTG/NIOMeL+dE2hhbEYv33nQkuRkDKtVAyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\IngresoProductos\\IngresoProductos.csproj",
+  "projectFilePath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\IngresoProductos\\IngresoProductos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\usu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

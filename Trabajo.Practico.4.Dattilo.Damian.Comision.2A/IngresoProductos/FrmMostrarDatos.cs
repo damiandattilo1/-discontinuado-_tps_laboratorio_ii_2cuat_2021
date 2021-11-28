@@ -9,12 +9,12 @@ using Entidades;
 
 namespace IngresoProductos
 {
-    public partial class Datos : Form
+    public partial class FrmMostrarDatos : Form
     {
         
         public Taller<Producto> lista;
 
-        public Datos(Taller<Producto> productos)
+        public FrmMostrarDatos(Taller<Producto> productos)
         {
             InitializeComponent();
 

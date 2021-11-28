@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qucN661tpUl0U7xOgC0F4frmIZGmhGAXriLNwdmjcaA23X2XjhuGyFFxuhvdWajO9jnRy7QAxfNM3DwQ6bmhXw==",
+  "dgSpecHash": "ELgEdsXcKV5pED79KFF5dZcq68usbJWRHhZBmd/Uq4jb//dkcaICzNiTd714QD9r3u0qeI9F5HmcxP41Ab9SBQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usu\\source\\repos\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj",
+  "projectFilePath": "C:\\Users\\usu\\Desktop\\tps_laboratorio_ii\\Trabajo.Practico.4.Dattilo.Damian.Comision.2A\\Entidades\\Entidades.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usu\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\usu\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
