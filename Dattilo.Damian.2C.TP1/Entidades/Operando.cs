@@ -18,13 +18,17 @@ namespace Entidades
         {
             this.numero = numero;
         }
-        public Operando(string strNumero) :this (double.Parse(strNumero)){ } // REVISAAAAAAAAAAAAAAAAAAAR
+        public Operando(string strNumero) :this (double.Parse(strNumero)){ }
 
-        /*private string Numero()
+        private string Numero
         {
-            // REVISAAAAAAAAAAAAAAAAAAAAR
+            set
+            {
+                this.Numero = value;
+            }
+            
         }
-        */
+        
 
         /// <summary>
         /// Convierte el operando string en double

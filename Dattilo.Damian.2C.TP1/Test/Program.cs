@@ -7,9 +7,9 @@ namespace Test
     {
         static void Main(string[] args)
         {// BORRADOR 1 CUAT 2022 LAB0 2
-            string numero = "10101";
+            string numero = "11";
 
-            Console.WriteLine(Operando.BinarioDecimal(numero));
+            Console.WriteLine(Operando.EsBinario(numero));
         }
     }
 }
