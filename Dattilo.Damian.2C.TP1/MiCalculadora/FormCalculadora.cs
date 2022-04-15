@@ -119,13 +119,6 @@ namespace MiCalculadora
             return Calculadora.Operar(n1, n2, char.Parse(operador));
         }
 
-
-        private void FormCalculadora_FormClosing(object sender, FormClosingEventArgs e)
-        {
-            
-         
-        }
-
         private void FormCalculadora_Load(object sender, EventArgs e)
         {
             Limpiar();
